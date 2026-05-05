@@ -33,7 +33,7 @@ Burde fungere, hvis ikke, si ifra.
 Velg en windows applikasjon som dere vil bruke med Wine.<br>
 Jeg har kurert en liste med applikasjoner som fungerer fint, men
 gjerne finn noe annet, om dere så ønsker.<br>
-Unngå applikasjoner med mye backend, som login, webservere, eller hardware nivå funksjoner som anticheats.
+Unngå applikasjoner med mye backend, som login, webservere, eller kernel nivå funksjoner som anticheats.
 #### Applikasjoner (klikk for å laste ned):
 - <a href="https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.4/npp.8.9.4.Installer.x64.exe" target="_blank">Notepad++</a> Fungerer perfekt
 - <a href="https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe" target="_blank">7-Zip</a> Fungerer perfekt
