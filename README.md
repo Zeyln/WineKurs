@@ -37,7 +37,7 @@ Unngå applikasjoner med mye backend, som login, webservere, eller kernel nivå 
 #### Applikasjoner (klikk for å laste ned):
 - <a href="https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.4/npp.8.9.4.Installer.x64.exe" target="_blank">Notepad++</a> Fungerer perfekt
 - <a href="https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe" target="_blank">7-Zip</a> Fungerer perfekt
-- <a href="https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.install.anycpu.web.zip" target="_blank">Paint.net</a> **Krever:**
+- <a href="https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.install.anycpu.web.zip" target="_blank">Paint.net</a> ustabil, **Krever:**
 ```bash
 brew install winetricks
 ```
